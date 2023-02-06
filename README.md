@@ -3,11 +3,12 @@ En este proyecto se dan a ejercitar las bases de lo que estuvimos desarrollado d
 Este PROYECTO CV cuenta con HTML, CSS Y JAVA.
 
 Dentro del proyecto nos vamos a encontrar un Navegador que muestra las secciones del curriculum y que al hacer click sobre cada palabra derivará en el apartado
-correspondiente. Tambien cuenta con una opcion de descarga.En pagina podemos ver la informacion correspondiente a un usario o persona con sus diferentes datos, habilidades y experiencias.
+correspondiente. Tambien cuenta con una opcion de descarga.En la pagina podemos ver la informacion correspondiente a un usuario o persona con sus diferentes datos, habilidades y experiencias.
 Contamos con un boton que funciona para poder determinar el modo de la pagina (Modo oscuro)
 
-Tenemos dos botones, uno al hacer click muestra informacion acerca del contacto del usuario y el siguiente botón cumple la funcion de poder abrir o cerrar una ventana
-de mensajes.
+Se muestra informacion personal, datos, experiencias, desarrollo y educación que quiere dar a mostrar el usuario.
+
+En la seccion de contacto tenemos dos botones, uno al hacer click muestra informacion acerca del contacto del usuario y el siguiente botón cumple la funcion de poder abrir o cerrar una ventana de mensajes.
 
 Finalizamos con los proyectos, estos proyectos estan linkeados mediante imagenes y cada imagen al hacer click sobre ellas va a cumplir la función de derivar en las páginas
 con el dicho proyecto (en mi caso puse a modo de ejemplo esas páginas ya que no poseo)
