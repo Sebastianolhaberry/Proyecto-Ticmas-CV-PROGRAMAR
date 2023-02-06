@@ -1,5 +1,5 @@
 # Proyecto-Ticmas-CV-PROGRAMAR
-En este proyecto se dan a ejercitar las bases de lo que estuvimos desarrolando durante el curso. Se creo una página la cual muestra un CURRICULUM VITAE.
+En este proyecto se dan a ejercitar las bases de lo que estuvimos desarrollado durante el curso. Se creo una página la cual muestra un CURRICULUM VITAE.
 Este PROYECTO CV cuenta con HTML, CSS Y JAVA.
 
 Dentro del proyecto nos vamos a encontrar un Navegador que muestra las secciones del curriculum y que al hacer click sobre cada palabra derivará en el apartado
